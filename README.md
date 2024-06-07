@@ -1,4 +1,4 @@
-# diivya
+# divya
 
 # 💫 About Me:
 Howdy! 👋 I'm Divya khandelwal, a passionate coder based in India.<br> My repos tell the story of my coding journey, <br>focusing on Data Science. Dive into the code with me!
